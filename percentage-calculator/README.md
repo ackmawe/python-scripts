@@ -14,7 +14,7 @@
 1. Clone this repository or download the script file.
 2. Run the script using Python 3.x:
    ```bash
-   python percentage_calculator.py
+   python percentage-calculator.py
 ## Example
 
 Please enter the current amount (e.g., 1.5): 50
@@ -29,3 +29,8 @@ Python 3.x
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+```
+
+## Author
+
+Ack-Mawé 🐥
